@@ -1,0 +1,17 @@
+.education__container_1 {
+    display: grid;
+    grid-template-columns: 25% 60%;
+    gap: 15%;
+    padding-top: 4rem;
+}
+
+.education__container_2 {
+    padding-top: 7rem;
+    display: grid;
+    grid-template-columns: 25% 60%;
+    gap: 15%;
+}
+
+.education__description h2 {
+    color: var(--color-light)
+}
