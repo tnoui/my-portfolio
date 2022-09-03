@@ -130,7 +130,7 @@ img {
 }
 
 
-/*** We're going to add media queries to make the website responsive ***/
+/*** adding media queries to make the website responsive ***/
 
 /* ================ MEDIA QUERIES (MEDIUM DEVICES) ================== */
 @media screen and (max-width: 1024px) {
