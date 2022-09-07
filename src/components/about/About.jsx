@@ -11,7 +11,7 @@ const About = () => {
                 <p>
 
                     I'm a second year Computer Science student at the Université de Montréal looking for an
-                    intership that will allow me to utilize my problem solving skills and learn new technologies
+                    internship that will allow me to utilize my problem solving skills and learn new technologies
                     to further enhance my abilities in the computer science field.
                 </p>
                 <div className="talk">
